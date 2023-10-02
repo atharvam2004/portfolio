@@ -1,10 +1,17 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "ARIV TECH",
-        url: "https://drive.google.com/file/d/1yto_IY8EmE3tAFGL3e_MuIkwArlJM080/view?usp=drive_link",
-        image: "projects/otawix.png",
-        projectDetail: "• Interned as a Full-Stack web developer, developing software solutions for diverse businesses, and organizations (majorly MERN). • Served as a proficient MERN stack full stack developer during the internship. • Collaborated effectively with a team on GitHub to design and deliver impactful projects. • Assumed responsibility for writing and conducting code reviews to ensure code quality.",
+        projectName: "Siri Ambari",
+        url: "https://siriambari.com",
+        image: "projects/siri.png",
+        view1:
+        "• Streamlined Booking Process: Leveraged React to create an intuitive user interface for efficient customer room reservations.",
+      view2:
+        "• Error-Free Bookings: Implemented date validation and room type management using Prisma, ensuring collision-free bookings.",
+      view3:
+        "• Room Allocation Optimization: Utilized Postgres to set room type limits, maximizing occupancy and revenue.",
+      view4:
+        "• Enhanced Guest Satisfaction: Delivered a seamless booking experience, improving guest satisfaction and hotel efficiency.",
         technologiesUsed: [
             {
                 tech: "MERN"
@@ -17,22 +24,57 @@ const portfolio = [
             },
            
             {
-                tech: "TailwindCSS"
+                tech: "CSS5"
+            },
+            {
+                tech: "ANTD"
+            },
+        ]
+    },
+    {
+        id: 3,
+        projectName: "Atharva's Portfolio",
+        url: "https://atharvasportfolio.netlify.app/",
+        image: "projects/port.png",
+        view1:
+        "• Developed my portfolio website using Next.js, ensuring a highly responsive and smooth user experience on various devices.",
+      view2:
+        "• Employed CSS and Bootstrap to create an aesthetically pleasing and user-friendly design.",
+      view3:
+        "• Carefully crafted the layout and interactions in Figma to achieve a visually appealing and intuitive interface.",        technologiesUsed: [
+            {
+                tech: "NEXTJS"
+            },
+            {
+                tech: "Tailwind CSS"
+            },
+            {
+                tech: "JavaScript"
+            },
+            {
+                tech: "Responsive Design"
             },
         ]
     },
     {
         id: 1,
-        projectName: "PHN Technologies",
-        url: "https://phntechnology.com/",
-        image: "projects/jmm.png",
-        projectDetail: "• Completed an internship at PHN Technologies, actively involved in developing responsive user interfaces and websites using JavaScript and CSS. • Ensured the websites were visually appealing, mobile-friendly, and easy to navigate while meeting project specifications. • Contributed to various projects, gaining valuable experience in design development and enhancing user experiences",
-        technologiesUsed: [
+        projectName: "Skill-Vista",
+        url: "https://skillvista.co.in/",
+        image: "projects/skill.png",
+        view1:
+        "• Developed Skill Vista portfolio website using React, with Props, Hooks for Lightweight, Fast-loading, and Enhanced User Experience.",
+      view2:
+        "• Ensured seamless responsiveness across multiple devices and screen sizes, allowing potential clients to access the portfolio effortlessly.",
+  
+      view3:
+        "• Ensured optimal user experience with a responsive design on various devices.",
+      view4:
+        "• Incorporated MailJS API to enable effective communication with clients and streamline email interactions for inquiries and updates.",        technologiesUsed: [
             {
-                tech: "Javascipt"
+                tech: "ReactJS"
             },
             {
-                tech: "MySQL"
+                tech: "Figma"
             },
             {
                 tech: "BootStrap"
@@ -42,6 +84,35 @@ const portfolio = [
             },
         ]
     },
+    {
+        id: 2,
+        projectName: "Highschool Admission Portal",
+        url: "https://highschool-admission-webapp.github.io/",
+        image: "projects/hs.png",
+        view1:
+        "• Developed a student admission management system website using React with seamless enrollment and document uploading.",
+      view2:
+        "• Utilized MongoDB for efficient storage and retrieval of student information.",
+      view3:
+        "• Ensured optimal user experience with a responsive design on various devices.",
+      view4:
+        "• Used Node.js to create a robust backend for efficient data processing.",        technologiesUsed: [
+            {
+                tech: "MERN"
+            },
+            {
+                tech: "CSS5"
+            },
+            {
+                tech: "BootStrap"
+            },
+            {
+                tech: "Mongoose"
+            },
+
+        ]
+    },
+   
    
     // {
     //     id: 2,

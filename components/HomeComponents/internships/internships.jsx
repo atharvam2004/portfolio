@@ -15,7 +15,7 @@ const Portfolio = () => {
       <BannerLayout  className="h-full space-y-2 p-8 card_stylings transition">
                     
 
-         <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">My Internships</div>
+         <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">My Projects</div>
 
          <div className="grid w-full  mt-5 justify-items-start grid-flow-row md:grid-cols-2 grid-rows-auto gap-x-4 gap-y-4 px-2 md:px-8 pb-8">
 

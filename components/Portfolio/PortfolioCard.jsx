@@ -44,8 +44,20 @@ const PortfolioCard = ({ data }) => {
                         </a>
                     </div>
                 </div>
-                <p className="text-xs text-LightGray font-normal">
-                    {data?.projectDetail}
+                <p className="text-xs text-LightGray font-normal m-2">
+                    {data?.view1}
+                </p>
+                <p className="text-xs text-LightGray font-normal m-2">
+                    {data?.view2}
+                </p> 
+                <p className="text-xs text-LightGray font-normal m-2">
+                    {data?.view3}
+                </p> 
+                <p className="text-xs text-LightGray font-normal m-2">
+                    {data?.view4}
+                </p>
+                <p className="text-xs text-LightGray font-normal m-2">
+                    {data?.view5}
                 </p>
                 <div className="text-sm flex flex-wrap gap-3 py-2">
                     {data.technologiesUsed.map((index, key) => <Badge key={key} title={index.tech} />)}
