@@ -10,7 +10,11 @@ const RecommendationCard = ({ data }) => {
                     <a href={data?.linkednURL} target="_blank" rel="noreferrer">{data?.name}</a>
                 </div>
                 <div className="text-xs text-LightGray italic mt-1">{data?.designation}</div>
-                <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view}</div>
+                <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view1}</div>
+                <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view2}</div>
+                <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view3}</div>
+                <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view4}</div>
+
             </div>
         </CardLayout>
     )
