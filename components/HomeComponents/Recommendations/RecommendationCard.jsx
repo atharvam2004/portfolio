@@ -16,7 +16,10 @@ const RecommendationCard = ({ data }) => {
                 <div className="text-sm mt-2 text-LightGray font-normal ">{data?.view4}</div>
 
             </div>
+
         </CardLayout>
+
+        
     )
 }
 

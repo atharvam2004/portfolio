@@ -2,13 +2,13 @@
 const BannerLayout = ({ children }) => {
     return (
         <div
-            className="relative backdrop-blur-sm w-full h-80 bg-fixed z-10"
+        className="h-full space-y-2 p-8 card_stylings transition"
             style={{
                 background: 'url(images/background.png)',
                 backgroundRepeat: 'no-repeat',
                 backgroundSize: 'cover',
             }}>
-            <div className="absolute inset-0 z-20 flex flex-col items-center justify-center w-full h-full bg-gradient-to-t from-MidNightBlack">
+            <div className=" inset-0 z-20 flex flex-col items-center justify-center w-full h-full bg-gradient-to-t from-MidNightBlack">
                 <div className="bg-Black/5 backdrop-blur-sm w-full h-full">
                     {children}
                 </div>
