@@ -22,6 +22,7 @@ const Nav = ({ setIsOpen, isOpen }) => {
                 </div>
             </div>
         </DrawerLayout>
+        
 
     )
 }
