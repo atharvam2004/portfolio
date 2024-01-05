@@ -1,6 +1,6 @@
 export const NAME = 'Atharva Meher';
 
-export const DESIGNATION = `MERN Stack Developer | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | DSA Enthusiast `;
 
 export const DETAILS = {
   Residence: 'India',

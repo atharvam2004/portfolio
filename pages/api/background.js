@@ -33,7 +33,7 @@ const background = [
                 url: 'https://jmm.ltd/',
                 desc: 'As a junior frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
                 year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                location: 'Pune, India'
             },
             {
                 id: 2,
@@ -42,7 +42,7 @@ const background = [
                 url: 'no website',
                 desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
                 year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                location: 'Pune, India'
             },
             {
                 id: 3,
@@ -51,7 +51,7 @@ const background = [
                 url: 'https://www.encoderbytes.com/',
                 desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
                 year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                location: 'Banglore, India'
             },
 
         ]
