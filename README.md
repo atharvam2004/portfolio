@@ -1,55 +1,26 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/osamajavaid/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/osamajavaid/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/osamajavaid/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iosamajavaid?style=social)](https://twitter.com/intent/follow?screen_name=iosamajavaid)
+# Atharva Meher's Portfolio
 
-  <br />
-  <br />
-  
-  <img src="./public/readme-images/moj.png" />
+Welcome to my portfolio! This project showcases my skills, projects, and experiences during my internship. You can also view the live portfolio [here](https://atharvasportfolio.netlify.app/).
 
-  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
 
-This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
+## Introduction
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+This portfolio is a representation of my work, skills, and achievements during my internships. It includes details about my background, projects I've worked on, and the technologies I'm familiar with.
 
-</div>
+## Technologies Used
 
-<br />
+- HTML
+- TailwindCSS
+- JavaScript
+- NextJS
 
-### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
-### Prerequisites
+## How to Run Locally
 
-Before you begin, ensure you have met the following requirements:
+To run this project locally, follow these steps:
 
-- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/atharvam2004/portfolio.git
 
-### Run Locally
-
-To run **portfolio** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/osamajavaid/portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [X](https://www.x.com/iosamajavaid).
-
-### License
-
-This project is **free to use** and does not contains any license.
