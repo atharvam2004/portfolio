@@ -90,7 +90,7 @@ const Banner = () => {
 
           <div className="flex items-center gap-x-1">
             <span className="text-base md:text-lg text-Green font-bold">
-              300+
+              500+
             </span>
             <span className="text-xs text-Snow">Problems on GFG/Leetcode </span>
           </div>
