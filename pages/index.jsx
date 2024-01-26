@@ -10,8 +10,9 @@ const home = () => {
         <div className="Home-Page -z-10">
             <Banner />
             <MyExpertise />
-            <Internships />
             <Recommendations />
+
+            <Internships />
             {/* <ClientReviews /> */}
             <Footer />
 
