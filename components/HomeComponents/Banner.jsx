@@ -11,7 +11,7 @@ const Banner = () => {
             <div className="">
               <div className="">
                 <h1 className="text-3xl sm:text-4xl xl:text-5xl text-Snow font-bold">
-                  Hello, Check This Out!
+                  Hello, Atharva here!
                 </h1>
               </div>
               <div className="">
