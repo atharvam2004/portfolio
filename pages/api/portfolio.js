@@ -1,6 +1,34 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "Dukaan",
+        url: "https://shoppee-mern.onrender.com/",
+        image: "projects/ecomm.jpeg",
+        view1:
+        "• Utilized Redux for state management, Developed an intuitive shopping experience by implementing advanced filters, search functionality and pagination, Implemented single admin control for product and order management.",
+      view2:
+        "• Leveraged Express and MongoDB for data storage/retrieval, managing sessions and authentication with PassportJS and JWT.",
+      technologiesUsed: [
+            {
+                tech :"Redux"
+            },
+            {
+                tech: "MERN"
+            },
+            {
+                tech: "Mongo DB"
+            },
+           
+           
+            {
+                tech: "CSS5"
+            },
+            {
+                tech: "Tailwind"
+            },
+        ]
+    },   {
+        id: 1,
         projectName: "Siri Ambari",
         url: "https://siriambari.com",
         image: "projects/siri.png",
