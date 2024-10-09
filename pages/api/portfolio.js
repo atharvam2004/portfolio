@@ -1,6 +1,35 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "Aajka Menu",
+        url: "https://aajcha-menu.vercel.app/",
+        image: "projects/aaj.png",
+        view1:
+        "• • An efficient meal planning solution that serves both customers and mess owners, featuring a smart review and rating system to highlight reliable mess options.",
+      view2:
+        "• • Enhances efficiency by delivering real-time updates and significantly minimizes time wastage by nearly 90%.",
+      technologiesUsed: [
+            {
+                tech :"Redux"
+            },
+            {
+                tech: "MERN"
+            },
+            {
+                tech: "Mongo DB"
+            },
+           
+           
+            {
+                tech: "CSS5"
+            },
+            {
+                tech: "Tailwind"
+            },
+        ]
+    }, 
+    {
+        id: 0,
         projectName: "Dukaan",
         url: "https://shoppee-mern.onrender.com/",
         image: "projects/ecomm.jpeg",
