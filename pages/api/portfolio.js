@@ -5,9 +5,9 @@ const portfolio = [
         url: "https://aajcha-menu.vercel.app/",
         image: "projects/aaj.png",
         view1:
-        "• • An efficient meal planning solution that serves both customers and mess owners, featuring a smart review and rating system to highlight reliable mess options.",
+        "• An efficient meal planning solution that serves both customers and mess owners, featuring a smart review and rating system to highlight reliable mess options.",
       view2:
-        "• • Enhances efficiency by delivering real-time updates and significantly minimizes time wastage by nearly 90%.",
+        "• Enhances efficiency by delivering real-time updates and significantly minimizes time wastage by nearly 90%.",
       technologiesUsed: [
             {
                 tech :"Redux"
@@ -18,8 +18,6 @@ const portfolio = [
             {
                 tech: "Mongo DB"
             },
-           
-           
             {
                 tech: "CSS5"
             },
